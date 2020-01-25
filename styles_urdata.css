@@ -1,0 +1,145 @@
+
+body {
+    font-family: 'Orbitron', sans-serif;
+}
+.logo {
+    font-family: 'Orbitron', sans-serif;
+}
+
+.navbar {
+    background-color:black;
+    color: white;
+}
+.navbar-light .navbar-brand {
+    font-weight: bold;
+    letter-spacing: .2em;
+    font-size: 30px;
+    color: white;
+}
+.navbar-light .navbar-nav .nav-link.active {
+    color: white;
+}
+.btn-outline-info {
+    color:white;
+    border-color:white;
+}
+.navbar-light .navbar-nav .nav-link{
+    color: white;
+}
+.navbar-brand img {
+    width: 60px;
+
+}
+.custom-container.container {
+  margin-right: 30px;
+  margin-left: 30px;
+  }
+  .firstjumbo.jumbotron {
+    background-attachment: fixed;
+    background-image: url(data.jpg);
+    background-size: cover;
+    color: white;
+    text-shadow: 1px 1px 1px black;
+    text-align: center;
+    min-height: 500px;
+    margin-bottom: 0px;
+}
+.secondjumbo.jumbotron {
+    color:black;
+    background-color: rgba(245, 241, 241, 0.918);
+    min-height: 200px;
+    text-align: center;
+}
+.introtext {
+    text-align: center;
+    font-size: 50px;
+}
+.display-4{
+padding-top: 80px;
+}
+.lead{
+    font-size: 22px;
+    padding-top: 40px;
+}
+.explanation {
+    font-size: 20px;
+}
+.firstexplanation.explanation {
+padding-top: 15px;
+}
+.bank {
+    height: 500px;
+}
+.custom-footer.footer {
+    background-color: black;
+    color: white;
+}
+.logo-footer {
+    width: 60px;
+}
+.footer-row.row {
+    min-height: 150px;
+}
+.container{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.footer-btns {
+    color: white;
+}
+.aboutjumbo.jumbotron {
+    background-attachment: fixed;
+    background-image: url(datasquares.jpg);
+    background-size: cover;
+    color: white;
+    text-shadow: 1px 1px 1px black;
+    text-align: center;
+    min-height: 500px;
+    margin-bottom: 0px;
+}
+.aboutcontainer {
+    text-align: center;
+    margin-top: 60px;
+}
+.aboutcontainer h4{
+    line-height: 2em;
+}
+th.header {
+    font-size: 30px;
+}
+.combank {
+    height: 90px;
+}
+.westpac {
+    height: 65px;
+}
+.nab {
+    height: 90px;
+}
+.stgeorges {
+    height: 80px;
+}
+.bom {
+    height: 70px;
+}
+.table td {
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+}
+.allianz {
+    height: 90px;
+}
+.bd {
+    height: 65px;
+}
+.nrma {
+    height: 90px;
+}
+.qbe {
+    height: 80px;
+}
+.suncorp {
+    height: 80px;
+}
+
